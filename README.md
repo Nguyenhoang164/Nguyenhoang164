@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ThanhDo University <br>👯 I’m looking to collaborate on BackEnd Developer Java<br>🤝 I’m looking for help with <br>🌱 I’m currently learning JAVA , Python , Unity , C#<br>💬 Ask me about Template React
+🔭 I’m currently working on ThanhDo University <br>👯 I’m looking to collaborate on BackEnd Developer Java<br>🤝 I’m looking for help with <br>🌱 I’m currently learning JAVA, Python, Unity, C#, ReactJS, NodeJS
 
 
 ## 🌐 Socials:
